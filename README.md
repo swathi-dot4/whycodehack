@@ -7,7 +7,7 @@
 
   🌐 **Live Website:** https://whycodehack.vercel.app/
 
-  💻 **Repository:** https://github.com/swathi-dot4/whycode4uhack
+  💻 **Repository:** https://github.com/swathi-dot4/whycodehack
 
 </p>
 
@@ -287,7 +287,7 @@ The following materials will help evaluators understand the project:
 
 **Hackathon:** WhyCode Hackathon
 
-**Repository:** [whycode4uhack](https://github.com/swathi-dot4/whycode4uhack)
+**Repository:** [whycode4uhack](https://github.com/swathi-dot4/whycodehack)
 
 We are a team of passionate developers working towards making healthcare more accessible, transparent, and reliable through technology.
 
